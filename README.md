@@ -9,6 +9,7 @@ Hey there, this is Mihir Suchak.
 
 ![All the Projects under and org](Screenshot.png)
 
+Check Live Here [Link](https://practical-test-seuin.now.sh/)
 
 ## Features Implemented as MVP
 
