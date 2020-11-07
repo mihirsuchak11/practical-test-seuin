@@ -1,0 +1,11 @@
+.btn {
+    border-radius: 0;
+    text-decoration: none;
+}
+
+.btn-link.focus,
+.btn-link:focus,
+button:focus {
+    box-shadow: none !important;
+    text-decoration: none;
+}

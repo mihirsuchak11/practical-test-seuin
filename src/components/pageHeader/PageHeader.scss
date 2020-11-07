@@ -1,0 +1,7 @@
+@import '../../assets/scss/helpers/colors.scss';
+
+.page-header {
+    padding: .5rem 1rem;
+    background-color: $lightGrey !important;
+    box-shadow: -1px 10px 11px -12px rgba(0, 0, 0, 0.5);
+}
